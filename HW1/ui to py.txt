@@ -1,0 +1,1 @@
+python  -m PyQt5.uic.pyuic -x hw1cv.ui -o hw1_pyqt.py
